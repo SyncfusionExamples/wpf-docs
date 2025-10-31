@@ -35,5 +35,3 @@ To contribute:
 ## License 
 
 This documentation is licensed under the Syncfusion License. Please review the terms before contributing.
-
-1391
