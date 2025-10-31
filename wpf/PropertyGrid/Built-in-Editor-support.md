@@ -158,7 +158,7 @@ public class ViewModel {
             EmailID_1 = "johnabc@",
             EmailID_2 = "peter123@gta.co",
             PositiveNumberMask = "-39479",
-            ProductKeyMask = "HTY23OPY678GR56R01G564GH"
+            ProductKeyMask = ""
         };
     }
 }
